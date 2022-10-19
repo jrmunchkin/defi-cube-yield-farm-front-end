@@ -1,0 +1,36 @@
+{
+  "contracts": {
+    "CubeFarm": "baabab11537c93731f180632b80eca5309ad6447",
+    "CubeToken": "c8ffd840ab0ec66cffcab715ae047e4de8fa95ad",
+    "MockDAI": "6ff3ec41379375896064d4b1c1b6f99e381dc7d3",
+    "MockLINK": "eb2271f9778ef0b697a45e79b7ee3694c47d6ec6",
+    "MockV3Aggregator": "937b86e6a7b2644538089a5138ec41857ec72299",
+    "MockWETH": "2837f35cb0087f8dc194f7fbc3095d8c20fe477e",
+    "OpenZeppelin/openzeppelin-contracts@4.7.3/ERC20": "38166fcfbc8e730a0752b73e497cde48b5457655",
+    "OpenZeppelin/openzeppelin-contracts@4.7.3/Strings": "1ce946f6a4eaa185320328620ccf999b9e86db7c"
+  },
+  "tests": {
+    "tests/integration/test_cube_farm_integration.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".",
+      "sha1": "8d3a02f477ec269dac87f14f3eeb1c2d4a35323f",
+      "txhash": []
+    },
+    "tests/unit/test_cube_farm.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "sssssssssssssssssss",
+      "sha1": "4616ee2107d1179589ed19cd2848e25216c4fb3f",
+      "txhash": []
+    },
+    "tests/unit/test_cube_token.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "ss",
+      "sha1": "fa149d86edfbb4940922f4a1e2c4928f004d365f",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
