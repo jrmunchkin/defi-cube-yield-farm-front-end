@@ -5,7 +5,7 @@
 This is a repository to give a user interface on the Cube Farm contracts.
 This repository is the frontend repository of the [Cube Farm contracts](https://github.com/jrchain/defi-cube-yield-farm). However you absolutly can use this repository without the backend part.
 
-[Full example of the App here!](https://billowing-paper-9359.on.fleek.co/)
+[Full example of the App here!](https://lucky-union-0544.on.fleek.co/)
 
 ## Summary
 
